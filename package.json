@@ -1,0 +1,19 @@
+{
+  "name": "tank-level",
+  "version": "0.0.1",
+  "description": "Reads water tank level in litres based on config presets for tank diameter, height, zero and span readings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cabletie/tank-level.git"
+  },
+  "author": "Peter Westley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabletie/tank-level/issues"
+  },
+  "homepage": "https://github.com/cabletie/tank-level"
+}
